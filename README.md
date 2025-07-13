@@ -1,1 +1,4 @@
-# Raspberry Pi 5 [Image Handler]
+# Raspberry Pi 5 [Controlador Imagenes]
+
+
+Repositorio para proyecto de robot.
